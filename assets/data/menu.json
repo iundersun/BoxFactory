@@ -1,0 +1,14 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		default: {  down: btn_play_down, up: btn_play },
+		play: {  down: btn_play_down,  up: btn_play },
+		scores: {  down: btn_scores_down,  up: btn_scores },
+		back: {  down: btn_back_down,  up: btn_back },
+		settings: {  down: btn_settings_down, up: btn_settings },
+		vibro_on: {  down: Vibro_on_down, up: Vibro_on },
+		vibro_off: {  down: Vibro_off_down, up: Vibro_off },
+		sound_on: {  down: Sound_on_down, up: Sound_on },
+		sound_off: {  down: Sound_off_down, up: Sound_off }
+	}
+}

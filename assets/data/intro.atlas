@@ -1,0 +1,89 @@
+
+intro.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 0, 16
+  size: 320, 240
+  orig: 320, 240
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 320, 192
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 320, 128
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 430, 192
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 320, 64
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 320, 0
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 430, 128
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 540, 192
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 430, 64
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 430, 0
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 540, 128
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 0, 6
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

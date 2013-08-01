@@ -1,0 +1,11 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		default: {  down: jump_down, up: jump },
+		jump: {  down: jump_down, up: jump },
+		left: {  down: left_down, up: left },
+		right: {  down: right_down, up: right },
+		resume: {  down: resume_down, up: resume },
+		menu: {  down: menu_down, up: menu }
+	}
+}
