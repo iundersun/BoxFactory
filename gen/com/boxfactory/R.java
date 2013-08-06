@@ -27,10 +27,17 @@ public final class R {
         public static final int action_settings=0x7f080000;
     }
     public static final class layout {
+<<<<<<< HEAD
+        public static final int activity_game=0x7f030000;
+    }
+    public static final class menu {
+        public static final int game=0x7f070000;
+=======
         public static final int activity_main=0x7f030000;
     }
     public static final class menu {
         public static final int main=0x7f070000;
+>>>>>>> cdd0e04caa42432a7c9b567d3b6a4d83c33ece10
     }
     public static final class string {
         public static final int action_settings=0x7f050001;

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>boxfactory-droid</name>
+=======
 	<name>boxfactory-android</name>
+>>>>>>> cdd0e04caa42432a7c9b567d3b6a4d83c33ece10
 	<comment></comment>
 	<projects>
 	</projects>
